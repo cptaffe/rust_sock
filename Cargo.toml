@@ -3,3 +3,9 @@
 name = "rust_sock"
 version = "0.0.1"
 authors = ["Connor Taffe <cpaynetaffe@gmail.com>"]
+
+[[bin]]
+name = "serve"
+
+[[bin]]
+name = "client"
